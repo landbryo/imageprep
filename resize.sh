@@ -1,0 +1,1 @@
+mogrify -path OPT -resize 1000x1000 -strip -quality 60 RAW/*.jpg
